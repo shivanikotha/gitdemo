@@ -1,0 +1,5 @@
+git add
+git init
+git add .
+git remote
+git commit
